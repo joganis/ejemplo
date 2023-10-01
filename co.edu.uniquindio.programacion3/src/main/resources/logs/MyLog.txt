@@ -1,0 +1,12 @@
+Sep 26, 2023 7:20:35 PM co.edu.uniquindio.programacion3.flujosDatos.EjemplosBasicos archivoRegistro
+SEVERE: Primer mensaje 1.1
+Sep 26, 2023 7:20:35 PM co.edu.uniquindio.programacion3.flujosDatos.EjemplosBasicos archivoRegistro
+WARNING: Segundo mensaje 2.1
+Sep 26, 2023 7:20:35 PM co.edu.uniquindio.programacion3.flujosDatos.EjemplosBasicos archivoRegistro
+SEVERE: Tercer mensaje 3.1
+Sep 26, 2023 7:21:27 PM co.edu.uniquindio.programacion3.flujosDatos.EjemplosBasicos archivoRegistro
+SEVERE: Primer mensaje 1.1
+Sep 26, 2023 7:21:27 PM co.edu.uniquindio.programacion3.flujosDatos.EjemplosBasicos archivoRegistro
+WARNING: Segundo mensaje 2.1
+Sep 26, 2023 7:21:27 PM co.edu.uniquindio.programacion3.flujosDatos.EjemplosBasicos archivoRegistro
+SEVERE: Tercer mensaje 3.1
